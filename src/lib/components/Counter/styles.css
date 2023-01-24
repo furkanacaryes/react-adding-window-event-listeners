@@ -1,0 +1,15 @@
+section,
+.counter {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.counter {
+  font-size: 32px;
+}
+
+button {
+  font-size: 32px;
+  padding: 8px 16px;
+}
